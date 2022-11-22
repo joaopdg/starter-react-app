@@ -1,4 +1,4 @@
-[![Deploy at Cyclic](https://deploy.cyclic.app/button.svg)](https://ironhack-workshop.cyclic.app/)
+[![Deployed at Cyclic](https://deploy.cyclic.app/button.svg)](https://styledcomps-ws.cyclic.app/)
 
 # Styled Components + Toastify Workshop
 
