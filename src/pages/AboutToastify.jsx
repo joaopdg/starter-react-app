@@ -1,5 +1,5 @@
 import React from "react";
-import toastLogo from "../../public/assets/toast-logo.png";
+import toastLogo from "../assets/toast-logo.png";
 
 /* Import Your Files Below This Line*/
 

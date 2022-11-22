@@ -1,5 +1,5 @@
 import React from "react";
-import scLogo from "../../public/assets/sc-logo.png";
+import scLogo from "../assets/sc-logo.png";
 
 /* Import Your Files Below This Line*/
 

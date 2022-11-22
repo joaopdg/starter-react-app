@@ -1,5 +1,5 @@
 import React from "react";
-import previewImg from "../../public/assets/preview.gif";
+import previewImg from "../assets/preview.gif";
 
 /* Import Your Files Below This Line*/
 

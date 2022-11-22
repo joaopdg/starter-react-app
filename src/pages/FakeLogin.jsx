@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
-import loadingSpinner from "../../public/assets/spinner.gif";
+import loadingSpinner from "../assets/spinner.gif";
 
 /* Import Your Files Below This Line*/
 
