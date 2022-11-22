@@ -28,7 +28,9 @@
     ]
   },
   "dependencies": {
-    "express": "^4.17.3"
+    "express": "^4.17.3",
+    "react-toastify": "^9.1.1",
+    "styled-components": "^5.3.6"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^5.16.2",
