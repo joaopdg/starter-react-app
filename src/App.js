@@ -11,9 +11,18 @@ import AboutStyled from "./pages/AboutStyled";
 import AboutToastify from "./pages/AboutToastify";
 import FakeLogin from "./pages/FakeLogin";
 
+/* Import Your Files Below This Line*/
+import { GlobalStyles } from "./components/styled/Global.styled";
+import { ToastContainer } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
+
 function App() {
   return (
     <div className="App">
+      <GlobalStyles />
+
+      <ToastContainer />
+
       <NavBar />
 
       <Routes>
