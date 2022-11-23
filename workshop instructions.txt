@@ -1,0 +1,24 @@
++------------------------------------------------------------------------------------------------+
+                                   STYLED COMPONENTS + TOASTIFY WORKSHOP                                 
++------------------------------------------------------------------------------------------------+
+
+      STEP 1:
+    ‾‾‾‾‾‾‾‾‾‾‾‾‾
+         • Fork the repo ( https://github.com/joaopdg/styled-components-workshop )
+         • Clone the repo
+         • npm i
+
+      STEP 2:
+    ‾‾‾‾‾‾‾‾‾‾‾‾‾
+         • npm i styled-components
+         • install extension vscode-styled-components
+         • import styled from "styled-components";
+         • style the app: Footer/NavBar > Section/Form > Button(props) > GlobalStyles
+
+      STEP 3:
+    ‾‾‾‾‾‾‾‾‾‾‾‾‾
+         • npm i react-toastify
+         • import 'react-toastify/dist/ReactToastify.css';
+         • setup and use toastify: Import on App.js > Setup on FakeLogin > Costumize
+
++------------------------------------------------------------------------------------------------+

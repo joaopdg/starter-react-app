@@ -8,6 +8,7 @@ export const StyledButton = styled.button`
   color: white;
   padding: 0px;
   margin: ${(props) => (props.primary ? "4vh" : "40px 0px 0px 0px")};
+  
   h3 {
     margin: 0px 20px 0px 20px;
   }
